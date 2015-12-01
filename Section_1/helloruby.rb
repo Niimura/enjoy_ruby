@@ -1,2 +1,1 @@
-print "Hello Ruby33"
-print "Hello ruby66"
+print "Hello Ruby\n"
